@@ -1,10 +1,5 @@
 <p style="text-align:center">&nbsp;</p>
 
-<p style="text-align:center"><strong><img alt="Prometheus" src="https://firebasestorage.googleapis.com/v0/b/prometheus-33a69.appspot.com/o/Logo512.png?alt=media&amp;token=6f6f465a-1426-4d93-8a79-e76069487e3c" style="height:150px; width:150px" /></strong></p>
-
-<hr />
-<p style="text-align:center"><span style="font-size:18px"><strong>PROMETHEUS, Tu red social privada!</strong></span></p>
-
 <p style="text-align:center"><span style="font-size:16px"><strong>SOPORTE TECNICO</strong></span></p>
 
 <p style="text-align:justify"><span style="font-size:16px"><strong>Para cualquier informaci&oacute;n, consultor&iacute;a o soporte t&eacute;cnico, ustred puede enviar un correo a </strong><strong><a href="mailto:pablocag@gmail.com">pablocag@gmail.com</a>&nbsp;o comunicarse v&iacute;a SMS/Whatsapp al tel&eacute;fono +529933938025</strong></span></p>
@@ -12,7 +7,6 @@
 <p style="text-align:justify"><span style="font-size:16px"><strong>Estamos para servirle y brindale el mejor servicio en cuanto a Plataformas M&oacute;viles.</strong></span></p>
 
 <hr />
-<p style="text-align:center"><span style="font-size:18px"><strong>PROMETHEUS, Tu red social privada!</strong></span></p>
 
 <p style="text-align:center"><span style="font-size:16px"><strong>AVISO DE PRIVACIDAD</strong></span></p>
 
