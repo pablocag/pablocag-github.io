@@ -12,7 +12,7 @@
 
 <p style="text-align:justify"><span style="font-size:16px">Con fundamento en los art&iacute;culos 16 de la Constituci&oacute;n Federal, 3 fracci&oacute;n XXV, 15 y 16 de la Ley Federal de Protecci&oacute;n de Datos Personales en Posesi&oacute;n de los Particulares y dem&aacute;s correlativos aplicables. Tratamiento de datos personales</span></p>
 
-<p style="text-align:justify"><span style="font-size:16px"><strong>Prometheus&nbsp;</strong>solo puede solicitar datos personales de los usuarios al acceder a la aplicaci&oacute;n y para mejorar el servicio al usuario.</span></p>
+<p style="text-align:justify"><span style="font-size:16px"><strong>Esta APP&nbsp;</strong>solo puede solicitar datos personales de los usuarios al acceder a la aplicaci&oacute;n y para mejorar el servicio al usuario.</span></p>
 
 <p style="text-align:center"><span style="font-size:16px"><strong>&iquest;Qu&eacute; datos personales se pueden recopilar?</strong></span></p>
 
@@ -24,26 +24,26 @@
 
 <p style="text-align:center"><span style="font-size:16px"><strong>Divulgaci&oacute;n a terceros</strong></span></p>
 
-<p style="text-align:justify"><span style="font-size:16px"><strong>Prometheus&nbsp;</strong>no compartir&aacute; datos personales con ninguna empresa en particular.</span></p>
+<p style="text-align:justify"><span style="font-size:16px"><strong>Esta APP&nbsp;</strong>no compartir&aacute; datos personales con ninguna empresa en particular.</span></p>
 
 <p style="text-align:center"><span style="font-size:16px"><strong>Protecci&oacute;n de datos personales</strong></span></p>
 
-<p style="text-align:justify"><span style="font-size:16px"><strong>Prometheus&nbsp;</strong>garantizar&aacute; la protecci&oacute;n de los datos personales mediante el cifrado durante el tr&aacute;nsito y la protecci&oacute;n digital de los mismos.</span></p>
+<p style="text-align:justify"><span style="font-size:16px"><strong>Esta APP&nbsp;</strong>garantizar&aacute; la protecci&oacute;n de los datos personales mediante el cifrado durante el tr&aacute;nsito y la protecci&oacute;n digital de los mismos.</span></p>
 
 <p style="text-align:center"><span style="font-size:16px"><strong>Integridad y conservaci&oacute;n de los datos personales</strong></span></p>
 
-<p style="text-align:justify"><span style="font-size:16px"><strong>Prometheus&nbsp;</strong>garantizar&aacute; la exactitud y calidad de los datos personales y se conservar&aacute;n durante el tiempo necesario para cumplir con las finalidades para las que fueron recabados, salvo que la ley exija una conservaci&oacute;n superior.</span></p>
+<p style="text-align:justify"><span style="font-size:16px"><strong>Esta APP&nbsp;</strong>garantizar&aacute; la exactitud y calidad de los datos personales y se conservar&aacute;n durante el tiempo necesario para cumplir con las finalidades para las que fueron recabados, salvo que la ley exija una conservaci&oacute;n superior.</span></p>
 
 <p style="text-align:center"><span style="font-size:16px"><strong>Acceso a datos personales</strong></span></p>
 
-<p style="text-align:justify"><span style="font-size:16px">En cuanto a los datos personales que conservamos, <strong>Prometheus&nbsp;</strong>le ofrece acceso a los mismos para cualquier finalidad, incluidas las solicitudes de rectificaci&oacute;n en caso de que sean inexactos o su eliminaci&oacute;n en caso de no estar obligado a conservarlos por imperativo legal o por motivos leg&iacute;timos. .</span></p>
+<p style="text-align:justify"><span style="font-size:16px">En cuanto a los datos personales que conservamos, <strong>Esta APP&nbsp;</strong>le ofrece acceso a los mismos para cualquier finalidad, incluidas las solicitudes de rectificaci&oacute;n en caso de que sean inexactos o su eliminaci&oacute;n en caso de no estar obligado a conservarlos por imperativo legal o por motivos leg&iacute;timos. .</span></p>
 
 <p style="text-align:justify"><span style="font-size:16px">Nos reservamos el derecho de no tramitar aquellas solicitudes que resulten inadmisibles o vejatorias, que pongan en riesgo la privacidad de terceros, que resulten inviables o para las que la legislaci&oacute;n local no exija el derecho de acceso. Las solicitudes de acceso, rectificaci&oacute;n o supresi&oacute;n podr&aacute;n ser enviadas de conformidad con los protocolos establecidos por las autoridades sanitarias y dentro de la Ley General de Transparencia y Acceso a la Informaci&oacute;n.</span></p>
 
 <p style="text-align:center"><span style="font-size:16px"><strong>Cambios o modificaciones a este aviso.</strong></span></p>
 
-<p style="text-align:justify"><span style="font-size:16px"><strong>Prometheus&nbsp;</strong>se reserva el derecho de realizar cambios o actualizaciones al presente Aviso en cualquier momento, en el entendido de que cualquier cambio al mismo se le har&aacute; saber a trav&eacute;s de la misma Aplicaci&oacute;n.</span></p>
+<p style="text-align:justify"><span style="font-size:16px"><strong>Esta APP&nbsp;</strong>se reserva el derecho de realizar cambios o actualizaciones al presente Aviso en cualquier momento, en el entendido de que cualquier cambio al mismo se le har&aacute; saber a trav&eacute;s de la misma Aplicaci&oacute;n.</span></p>
 
-<p style="text-align:justify"><span style="font-size:16px">Al instalar la aplicaci&oacute;n <strong>Prometheus</strong>, el usuario otorga su autorizaci&oacute;n expresa y total aceptando los t&eacute;rminos contenidos y descritos en estas Pol&iacute;ticas de Privacidad y libera al Autor de toda responsabilidad civil, penal, laboral, comercial y legal. En el entendido de que los datos recabados por la aplicaci&oacute;n Alerta M&oacute;vil ser&aacute;n administrados y tratados por el Gobierno del Estado correspondiente, as&iacute; como por el Gobierno Federal Mexicano.</span></p>
+<p style="text-align:justify"><span style="font-size:16px">Al instalar la aplicaci&oacute;n, el usuario otorga su autorizaci&oacute;n expresa y total aceptando los t&eacute;rminos contenidos y descritos en estas Pol&iacute;ticas de Privacidad y libera al Autor de toda responsabilidad civil, penal, laboral, comercial y legal. En el entendido de que los datos recabados por la aplicaci&oacute;n Alerta M&oacute;vil ser&aacute;n administrados y tratados por el Gobierno del Estado correspondiente, as&iacute; como por el Gobierno Federal Mexicano.</span></p>
 
-<p style="text-align:center"><strong><span style="font-size:16px">Expedido en M&eacute;xico, el 03 de marzo de 2022.</span></strong></p>
+<p style="text-align:center"><strong><span style="font-size:16px">Expedido en M&eacute;xico, el 07 de agosto de 2024.</span></strong></p>
