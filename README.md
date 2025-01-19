@@ -20,7 +20,7 @@
 
 <p style="text-align:center"><span style="font-size:16px"><strong>Finalidad del tratamiento de datos personales</strong></span></p>
 
-<p style="text-align:justify"><span style="font-size:16px"><strong>Prometheus&nbsp;</strong>podr&aacute; utilizar los datos personales recabados para el an&aacute;lisis de datos y encuestas, para mejorar los productos, servicios y comunicaciones a los usuarios.</span></p>
+<p style="text-align:justify"><span style="font-size:16px"><strong>Esta App&nbsp;</strong>podr&aacute; utilizar los datos personales recabados para el an&aacute;lisis de datos y encuestas, para mejorar los productos, servicios y comunicaciones a los usuarios.</span></p>
 
 <p style="text-align:center"><span style="font-size:16px"><strong>Divulgaci&oacute;n a terceros</strong></span></p>
 
